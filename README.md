@@ -1,2 +1,2 @@
 # natural_language_processing
-Classifying complaints and routine services using SVM
+Classifying complaints and routine services using LinearSVC
